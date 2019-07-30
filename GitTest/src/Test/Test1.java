@@ -1,5 +1,5 @@
 package Test;
-//wangzaiÄãºÃbuhuanyni
+//wangzai
 public class Test1 {
 	public static void main(String[] args) {
 		
